@@ -9,5 +9,6 @@
 
 The copy of the project methodology and results are included within the repository as PDF files: 
 
-* PowerPoint version (Summarized)
-* Report version (Full)
+* [PowerPoint version (Summarized)](https://github.com/bernardcheng/LSTM-Models-for-Pair-Trading/blob/master/CDS%20Presentation%20Final.pdf)
+* [Report version (Full)](https://github.com/bernardcheng/LSTM-Models-for-Pair-Trading/blob/master/CDS%20Report.pdf)
+
